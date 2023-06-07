@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laraib-sidd&label=Profile%20views&color=0e75b6&style=flat" alt="laraib-sidd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laraib-sidd" alt="laraib-sidd" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pickled_pretzel" target="blank"><img src="https://img.shields.io/twitter/follow/pickled_pretzel?logo=twitter&style=for-the-badge" alt="pickled_pretzel" /></a> </p>
 
 - 🌱 I’m currently learning **Spark**

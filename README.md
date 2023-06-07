@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laraib Siddiqui</h1>
 <h3 align="center">Building Bridges of Data: Empowering Insights through Expert Data Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laraib-sidd&label=Profile%20views&color=0e75b6&style=flat" alt="laraib-sidd" /> s</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laraib-sidd&label=Profile%20views&color=0e75b6&style=flat" alt="laraib-sidd" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pickled_pretzel" target="blank"><img src="https://img.shields.io/twitter/follow/pickled_pretzel?logo=twitter&style=for-the-badge" alt="pickled_pretzel" /></a> </p>
 

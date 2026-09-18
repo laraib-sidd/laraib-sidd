@@ -1,0 +1,17 @@
+<svg width="480" height="200" viewBox="0 0 480 200" xmlns="http://www.w3.org/2000/svg">
+<style>
+ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+ .h{font-size:18px;font-weight:600;fill:#24292f}
+ .b{font-size:13px;fill:#57606a}
+ .f{font-size:12px;fill:#57606a}
+ .k{font-size:11px;fill:#8b949e}
+ @media(prefers-color-scheme:dark){.h{fill:#e6edf3}.b,.f{fill:#8b949e}.k{fill:#6e7681}}
+</style>
+<text x="8" y="28" class="h">Laraib Siddiqui</text>
+<text x="8" y="50" class="b">Data Engineer Extraordinaire: Merging Bytes and Banter</text>
+<text x="8" y="72" class="b">for Data-licious Delights!</text>
+<text x="8" y="102" class="f">🏢  Hinge Health</text>
+<text x="8" y="122" class="f">📍  New Delhi, India</text>
+<text x="8" y="142" class="f">📅  Joined GitHub Nov 2017</text>
+<text x="8" y="168" class="k">static stand-in · swap with lowlighter/metrics after METRICS_TOKEN</text>
+</svg>

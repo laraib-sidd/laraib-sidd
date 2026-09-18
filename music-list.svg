@@ -1,0 +1,16 @@
+<svg width="427" height="176" viewBox="0 0 427 176" xmlns="http://www.w3.org/2000/svg">
+<style>
+ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+ .h{font-size:16px;fill:#0366d6}
+ .sub{font-size:11px;fill:#57606a}
+ .n{font-size:13px;fill:#24292f}
+ @media(prefers-color-scheme:dark){.h{fill:#58a6ff}.sub{fill:#8b949e}.n{fill:#e6edf3}}
+</style>
+<text x="4" y="20" class="h">On repeat, what I code to</text>
+<text x="4" y="36" class="sub">Delhi hip-hop + the usual American canon</text>
+<text x="8" y="58" class="n">Nanku  ·  Pyar+Tum</text>
+<text x="8" y="78" class="n">Seedhe Maut  ·  Nanchaku</text>
+<text x="8" y="98" class="n">Raga  ·  Sheikh Chilli</text>
+<text x="8" y="118" class="n">Kanye West  ·  Flashing Lights</text>
+<text x="8" y="138" class="n">Kendrick Lamar  ·  HUMBLE.</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="427" height="176" viewBox="0 0 427 176" xmlns="http://www.w3.org/2000/svg">
+<style>
+ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+ .h{font-size:16px;fill:#0366d6}
+ .sub{font-size:11px;fill:#57606a}
+ .n{font-size:13px;fill:#24292f}
+ @media(prefers-color-scheme:dark){.h{fill:#58a6ff}.sub{fill:#8b949e}.n{fill:#e6edf3}}
+</style>
+<text x="4" y="20" class="h">On the shelf</text>
+<text x="4" y="36" class="sub">films, anime, manga I keep coming back to</text>
+<text x="8" y="44" class="n">Memories of Murder · Bong Joon-ho</text>
+<text x="8" y="62" class="n">Dhol · Priyadarshan chaos cinema</text>
+<text x="8" y="80" class="n">Attack on Titan · walls, then worse</text>
+<text x="8" y="98" class="n">Hunter × Hunter · Nen syllabus</text>
+<text x="8" y="116" class="n">Vinland Saga · farm arc supremacy</text>
+<text x="8" y="134" class="n">Vagabond · ink, swords, emptiness</text>
+<text x="8" y="152" class="n">Berserk · the eclipse, forever</text>
+</svg>

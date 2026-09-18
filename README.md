@@ -53,15 +53,32 @@
 <a href="https://github.com/laraib-sidd/khidki"><img width="100%" alt="open source" src="./contributions.svg"></a>
 
 <table>
-  <tr>
-    <td width="50%"><img alt="films anime manga" src="./media.svg"></td>
-    <td width="50%"><img alt="On repeat, what I code to" src="./music-list.svg"></td>
-  </tr>
-</table>
+<tr>
+<td valign="top" width="50%">
 
-**On repeat**
+**On the shelf**  
+films, anime, manga I keep coming back to
+
+- Memories of Murder
+- Dhol
+- Attack on Titan
+- Hunter x Hunter
+- Vinland Saga
+- Vagabond
+- Berserk
+
+</td>
+<td valign="top" width="50%">
+
+**On repeat, what I code to**  
+Delhi hip-hop + the usual American canon
+
 - [Nanku — Pyar+Tum](https://www.youtube.com/watch?v=3isktZOqq0c)
 - [Seedhe Maut — Nanchaku](https://www.youtube.com/watch?v=0gI8plPPD3M)
 - [Raga — Sheikh Chilli](https://www.youtube.com/watch?v=kQJs3B16jjs)
 - [Kanye West — Flashing Lights](https://www.youtube.com/watch?v=ZAfAud_M_mg)
 - [Kendrick Lamar — HUMBLE.](https://www.youtube.com/watch?v=tvTRZJ-4EyI)
+
+</td>
+</tr>
+</table>

@@ -52,11 +52,12 @@
 
 <a href="https://github.com/laraib-sidd/khidki"><img width="100%" alt="open source" src="./contributions.svg"></a>
 
-<div>
-<img align="left" width="47%" alt="films anime manga" src="./media.svg">
-<img align="right" width="47%" alt="On repeat, what I code to" src="./music-list.svg">
-<img width="100%" height="1" alt="" src="./placeholder.svg">
-</div>
+<table>
+  <tr>
+    <td width="50%"><img alt="films anime manga" src="./media.svg"></td>
+    <td width="50%"><img alt="On repeat, what I code to" src="./music-list.svg"></td>
+  </tr>
+</table>
 
 **On repeat**
 - [Nanku — Pyar+Tum](https://www.youtube.com/watch?v=3isktZOqq0c)

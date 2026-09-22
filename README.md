@@ -54,31 +54,15 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
-
-**On the shelf**  
-films, anime, manga I keep coming back to
-
-- Memories of Murder
-- Dhol
-- Attack on Titan
-- Hunter x Hunter
-- Vinland Saga
-- Vagabond
-- Berserk
-
-</td>
-<td valign="top" width="50%">
-
-**On repeat, what I code to**  
-Delhi hip-hop + the usual American canon
-
-- [Nanku — Pyar+Tum](https://www.youtube.com/watch?v=3isktZOqq0c)
-- [Seedhe Maut — Nanchaku](https://www.youtube.com/watch?v=0gI8plPPD3M)
-- [Raga — Sheikh Chilli](https://www.youtube.com/watch?v=kQJs3B16jjs)
-- [Kanye West — Flashing Lights](https://www.youtube.com/watch?v=ZAfAud_M_mg)
-- [Kendrick Lamar — HUMBLE.](https://www.youtube.com/watch?v=tvTRZJ-4EyI)
-
-</td>
+<td valign="top" width="50%"><img alt="On the shelf" src="./media.svg"></td>
+<td valign="top" width="50%"><img alt="On repeat, what I code to" src="./music-list.svg"></td>
 </tr>
 </table>
+
+<sub>
+[Nanku — Pyar+Tum](https://www.youtube.com/watch?v=3isktZOqq0c)
+· [Seedhe Maut — Nanchaku](https://musicbrainz.org/release/2255ebd9-9e24-409e-980b-b57ff0b68c7c)
+· [Raga — Midtown Madness](https://musicbrainz.org/release/8b16c1a8-86f9-4a59-b444-dc728c630e57)
+· [Kanye West — Flashing Lights](https://www.youtube.com/watch?v=ZAfAud_M_mg)
+· [Kendrick Lamar — HUMBLE.](https://www.youtube.com/watch?v=tvTRZJ-4EyI)
+</sub>

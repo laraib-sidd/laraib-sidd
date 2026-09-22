@@ -54,15 +54,71 @@
 
 <table>
 <tr>
-<td valign="top" width="50%"><img alt="On the shelf" src="./media.svg"></td>
-<td valign="top" width="50%"><img alt="On repeat, what I code to" src="./music-list.svg"></td>
+<td valign="top" width="50%">
+
+**On the shelf**  
+<sub>films, anime, manga I keep coming back to</sub>
+
+<table>
+<tr>
+<td><img src="./covers/mom.jpg" width="42" height="60" alt="Memories of Murder"></td>
+<td>Memories of Murder<br/><sub>Bong Joon-ho · 2003</sub></td>
+</tr>
+<tr>
+<td><img src="./covers/dhol.jpg" width="42" height="60" alt="Dhol"></td>
+<td>Dhol<br/><sub>Priyadarshan · 2007</sub></td>
+</tr>
+<tr>
+<td><img src="./covers/aot.jpg" width="42" height="60" alt="Attack on Titan"></td>
+<td>Attack on Titan<br/><sub>Hajime Isayama</sub></td>
+</tr>
+<tr>
+<td><img src="./covers/hxh.jpg" width="42" height="60" alt="Hunter x Hunter"></td>
+<td>Hunter x Hunter<br/><sub>Yoshihiro Togashi</sub></td>
+</tr>
+<tr>
+<td><img src="./covers/vinland.jpg" width="42" height="60" alt="Vinland Saga"></td>
+<td>Vinland Saga<br/><sub>Makoto Yukimura</sub></td>
+</tr>
+<tr>
+<td><img src="./covers/vagabond.jpg" width="42" height="60" alt="Vagabond"></td>
+<td>Vagabond<br/><sub>Takehiko Inoue</sub></td>
+</tr>
+<tr>
+<td><img src="./covers/berserk.jpg" width="42" height="60" alt="Berserk"></td>
+<td>Berserk<br/><sub>Kentaro Miura</sub></td>
 </tr>
 </table>
 
-<sub>
-[Nanku — Pyar+Tum](https://www.youtube.com/watch?v=3isktZOqq0c)
-· [Seedhe Maut — Nanchaku](https://musicbrainz.org/release/2255ebd9-9e24-409e-980b-b57ff0b68c7c)
-· [Raga — Midtown Madness](https://musicbrainz.org/release/8b16c1a8-86f9-4a59-b444-dc728c630e57)
-· [Kanye West — Flashing Lights](https://www.youtube.com/watch?v=ZAfAud_M_mg)
-· [Kendrick Lamar — HUMBLE.](https://www.youtube.com/watch?v=tvTRZJ-4EyI)
-</sub>
+</td>
+<td valign="top" width="50%">
+
+**On repeat, what I code to**  
+<sub>Delhi hip-hop + the usual American canon</sub>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=3isktZOqq0c"><img src="./covers/nanku.jpg" width="52" height="52" alt="Pyar+Tum"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3isktZOqq0c">Pyar+Tum</a><br/><sub>Nanku</sub></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/results?search_query=Seedhe+Maut+Nanchaku"><img src="./covers/seedhe.jpg" width="52" height="52" alt="Nanchaku"></a></td>
+<td><a href="https://www.youtube.com/results?search_query=Seedhe+Maut+Nanchaku">Nanchaku</a><br/><sub>Seedhe Maut · MC STAN</sub></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/results?search_query=Raga+Midtown+Madness"><img src="./covers/raga.jpg" width="52" height="52" alt="Midtown Madness"></a></td>
+<td><a href="https://www.youtube.com/results?search_query=Raga+Midtown+Madness">Midtown Madness</a><br/><sub>Raga</sub></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=ZAfAud_M_mg"><img src="./covers/kanye.jpg" width="52" height="52" alt="Flashing Lights"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZAfAud_M_mg">Flashing Lights</a><br/><sub>Kanye West</sub></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=tvTRZJ-4EyI"><img src="./covers/kendrick.jpg" width="52" height="52" alt="HUMBLE."></a></td>
+<td><a href="https://www.youtube.com/watch?v=tvTRZJ-4EyI">HUMBLE.</a><br/><sub>Kendrick Lamar</sub></td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
